@@ -1,0 +1,95 @@
+/* 03 July 2020 */
+.mainLogo{
+    width: auto;
+    height: auto;
+}
+.success-msg{
+    color: green;
+}
+.error-msg{
+color: red;
+}
+.groupBtnWSpace{
+    margin-right: 10px;
+    border-radius: 5px!important;
+}
+
+.filterSec{
+    margin-top: 0;
+    margin-bottom: 10px;
+    border-bottom: 2px dotted #c5c5c5;
+    padding-bottom: 5px;
+}
+
+.filterSec h4{
+    margin: 0 0 10px;
+}
+
+#Order-info .modal-header {
+    background: #e6ad07;
+}
+
+#Order-info  .modal-title {
+    margin-top: 0;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+}
+
+.order-info{
+    margin-bottom: 0;
+}
+
+.order-info tr{
+
+}
+
+.order-info td{
+    padding: 10px 10px;
+    color: #000;
+}
+
+.order-info th{
+    padding: 8px 10px;
+    color: #000;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    font-size: 14px;
+
+}
+
+.order-info tbody tr td:first-child{
+    width: 15%;
+}
+
+.order-info td .proName{
+    margin: 0 0 7px;
+    font-size: 13px;
+    color: #000;
+    letter-spacing: 0.2px;
+}
+
+.order-info td .qntyPrice{
+    font-size: 12px;
+    color: #000;
+    margin: 4px 0 0;
+}
+
+.order-info td .qntyPrice span{
+    font-size: 12px;
+    font-weight: 900; 
+}
+
+.order-info td .qntyPrice span.price{
+    font-weight: 600;
+    letter-spacing: 0.8px;
+}
+
+.order-info td h5.totalProAmt{
+
+}
+
+.order-info tfoot td:first-child{
+    text-align: right; 
+}
